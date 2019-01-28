@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AutoCompleteText</string>
+
+    <string name="ecn">
+        देशाचे नाव प्रविष्ट कराः</string>
+    <string-array name="countries">
+        <item>
+            इंडिया</item>
+        <item>
+            ऑस्ट्रेलिया</item>
+        <item>जापान</item>
+        <item>इंडोनेशिया</item>
+        <item>
+            लंडन</item>
+        <item>
+            इराक</item>
+        <item>
+            पाकिस्तान</item>
+    </string-array>
+</resources>
